@@ -61,11 +61,12 @@ The third and fourth hurdles are all uncertain decision-making problems. Because
 
 First, establish the entire decision-making process and constraint equations. Players have a total of several options, choose to go directly to the end point, or go to the mine/village and then go to the end point; in the whole process, a certain constraint equation needs to be met.
 ![image](https://user-images.githubusercontent.com/67628125/146635903-31f5b49d-321c-4381-93d4-5d17e10479b4.png)
+![image](https://user-images.githubusercontent.com/67628125/146636056-86b252dd-a68e-4f57-8d0c-a1f9ef938228.png)
+
 
 Based on the above decision-making process, analyzing the termination conditions and mining conditions of each decision analysis, we can find that the food and water purchased at the initial point can be profited by mining, while the mining profit of the materials purchased in the village is negative. . At the same time, further considering the initial purchase, it is necessary to maximize the number of days that can eventually be mined. However, due to the uncertainty of the weather, it may cause an imbalance of water and food, but it can be obtained by calculation. No matter how the imbalance is, go to the village to buy resources. Re-mining is not cost-effective, and the following results can be obtained in the end:
 
-<img src="img/image-20201205234112126.png" alt="image-20201205234112126" width="700px" />
-![image](https://user-images.githubusercontent.com/67628125/146635914-7f9a452d-bb6a-472b-9fe6-3e371f0b7b39.png)
+![image](https://user-images.githubusercontent.com/67628125/146636075-4effe964-d631-4016-b0a8-50e07c4293df.png)
 
 
 The third level is similar. According to a certain purchase strategy, when the weather is all sunny, it happens to be able to mine one more time, and the best answer is the only one.
@@ -76,15 +77,13 @@ The third level is similar. According to a certain purchase strategy, when the w
 
 The fifth and sixth levels are all about multi-player participation. The weather in the fifth level is determined, and the weather in the sixth level is uncertain. The complexity of the problem lies in the fact that there is no communication between players and there is a game relationship. If the decisions are the same, the comprehensive income will be low. Considering that in the actual game process, the players are all risky, so we can treat the players The risk propensity of the system is defined, and then the Markov state transition process and Monte Carlo simulation are used to simulate, so as to obtain the final analysis.
 
-<img src="img/第六关.png" alt="image-20201205222156701" width="500px" />
-
 
 
 ### Solving process
 
 Set risk preferences and establish state transition equations for different risk preferences, as follows
 
-<img src="img/image-20201205225952357.png" alt="image-20201205225952357" width="600px" />
+![image](https://user-images.githubusercontent.com/67628125/146636193-6ec6e0a6-a3d5-45b6-ab23-5c3c0040ed83.png)
 
 The Monte Carlo simulation method is used to construct a simulation program to simulate the Markov decision process of players with different risk acceptance levels, and then to explore the impact of risk acceptance on the pros and cons of players' decision-making.
 
@@ -92,7 +91,7 @@ In each simulation, all players have exactly the same initial conditions except 
 
 Analysis of the simulation results shows that among the players with the most remaining funds, the proportion of players with the highest risk acceptance among the three players in the government game is about 40% (the highest proportion), and most of these players are risk-appreciative. And risk averse. However, the simulation results also show that too many conflicts brought about by too high risk acceptance will consume too many resources and cause the game to fail. In order to explore the appropriate risk acceptance level, the risk acceptance level of all game failed players is counted, and a histogram can be drawn and kernel density estimation can be performed. The result is shown in Figure 14.
 
-<img src="img/image-20201205230207330.png" alt="image-20201205230207330" width="500px" />
+![image](https://user-images.githubusercontent.com/67628125/146636214-d59fead3-37ec-43fb-9f02-53e7a164a191.png)
 
 ## Summary of experience
 
