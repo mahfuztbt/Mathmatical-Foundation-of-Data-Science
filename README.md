@@ -34,7 +34,7 @@ School of software, Sotware Engineering
 ### Problem introduction
 
 The first and second levels are similar. Both players make decisions when the weather is certain. There is an optimal strategy. After simplifying the model, we can establish a state transition equation and solve the optimal strategy through dynamic programming.
-![image](https://user-images.githubusercontent.com/67628125/146635578-ba974686-152e-4610-9c42-6e8e13433218.png) ![image](https://user-images.githubusercontent.com/67628125/146635616-7639bd0a-4009-4d2e-b06c-81d0946b6813.png)
+
 
 
 
@@ -55,7 +55,7 @@ In maps with villages, too many village replenishment strategies greatly increas
 
 The third and fourth hurdles are all uncertain decision-making problems. Because all the weather is uncertain, the decision-making problems are more complicated. We need to simplify the decision-making path, analyze the benefits of choosing different strategies in different weather, and finally make a decision.
 
-![image](https://user-images.githubusercontent.com/67628125/146635878-9eb60528-988d-4750-9fb0-f53ffc5765b7.png)
+
 
 ### Solving process
 
