@@ -93,17 +93,5 @@ Analysis of the simulation results shows that among the players with the most re
 
 ![image](https://user-images.githubusercontent.com/67628125/146636214-d59fead3-37ec-43fb-9f02-53e7a164a191.png)
 
-## Summary of experience
 
-**Team situation**: All the seniors in the senior year
-
-**Pre-match preparation**: The three students have insufficient experience in participating, and have not prepared in advance or read any information. However, there are some prerequisite courses such as decision simulation, algorithm analysis and design, operations research, game theory, optimization methods, etc. Some projects have been done in the class, and some projects on resource optimization and decision-making problems have been done. I have read a lot of materials in this area. The two students in the group are basically preparing for direct Ph.
-
-**Question selection**: After seeing the question that night, the threshold of question C is too low, question A is not very familiar, question B is completely in our area of ​​expertise, and we will simply discuss the consequences and choose question B.
-
-
-
-**Schedule**: Our schedule is relatively calm. We didn’t do anything on Thursday. The first and second questions started on Friday and we basically finished it at noon on Saturday. We did not stay up late. WeChat and Zoom communicated new findings. And the progress, the third question encountered some problems, probably finished at noon on Sunday, and the second question was added and revised at noon and afternoon on Sunday, and then submitted after finishing on Sunday afternoon.
-
-**Summary**: Judging from our team's experience in the game, because this country one is relatively easy to take, and we didn't stay up late and check the information. Although frankly speaking, we are not so satisfied. The essence In the mathematical modeling competition, mathematical tools are used to solve real-world problems. Therefore, theoretically speaking, it is most important to have a better ability to solve mathematical problems encountered through code, data processing and modeling. Winning should only be natural.
 
