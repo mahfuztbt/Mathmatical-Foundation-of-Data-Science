@@ -16,7 +16,7 @@ School of software, Sotware Engineering
 
 ## content
 
-- [Problem introduction] ($Experience introduction)
+- [Problem introduction] 
   - [Resource allocation problem]
     - Problem introduction
     - Solving ideas
@@ -26,7 +26,8 @@ School of software, Sotware Engineering
   - [Dynamic Game Problem] 
     - Problem introduction
     - Solving ideas
-- [Experience introduction] 
+    - 
+- [Experience introduction] later----
 
 
 ## Resource allocation problem
