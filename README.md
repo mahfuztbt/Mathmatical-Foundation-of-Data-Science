@@ -3,6 +3,8 @@
 # A Crossing the Desert
 
 
+# everyone! next week final presentation so prepare you part- thank you~
+
 Team Members：[Ronnie](https://github.com/mahfuztbt)
 [Apel](https://github.com/apel2021)
 [Zulker](https://github.com/ZulkRS) 
