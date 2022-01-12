@@ -1,9 +1,9 @@
 # Mathmatical-Foundation-of-Data-Science
 
-# A Crossing the Desert
+# Crossing the Desert
 
 
-# everyone! next week final presentation so prepare you part- thank you~
+## thank you everyone~
 
 Team Members：[Ronnie](https://github.com/mahfuztbt)
 [Apel](https://github.com/apel2021)
@@ -18,18 +18,18 @@ School of software, Sotware Engineering
 
 ## content
 
-- [Problem introduction] 
-  - [Resource allocation problem]
+- Problem introduction 
+  - Resource allocation problem
     - Problem introduction
     - Solving ideas
-  - [Optimal Decision-Making Problem Solving]
+  - Optimal Decision-Making Problem Solving
     - Problem introduction
     - Solving ideas
-  - [Dynamic Game Problem] 
+  - Dynamic Game Problem
     - Problem introduction
     - Solving ideas
     - 
-- [Experience introduction] later----
+- team experience later----
 
 
 ## Resource allocation problem
