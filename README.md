@@ -1,6 +1,6 @@
 # Mathmatical-Foundation-of-Data-Science
 
-# Crossing the Desert
+# Crossing the Desert Game Problem
 
 
 ## thank you everyone~
@@ -28,7 +28,7 @@ School of software, Sotware Engineering
   - Dynamic Game Problem
     - Problem introduction
     - Solving ideas
-    - 
+     
 - team experience later----
 
 
